@@ -1,6 +1,11 @@
-# TP2 Docker / Cloud Computing
+# 🐳 API ML conteneurisée — optimisation d'images Docker
 
-**Saad Sabir Idrissi**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aqua&logoColor=white)
+
+**Saad Sabir Idrissi** · TP2 du module *Docker / Cloud Computing*
 
 Projet de conteneurisation, optimisation et déploiement d'un modèle de Machine Learning avec **Docker**, **Docker Compose** et **FastAPI**.
 
@@ -58,7 +63,7 @@ Docker Compose garantit que le service `serve` démarre après la réussite du s
 # 3. Structure du projet
 
 ```text
-tp2-docker-cloud-computing/
+ml-api-docker-optimization/
 │
 ├── data/
 │   └── ...
@@ -670,7 +675,7 @@ docker images
 Dépôt du projet :
 
 ```text
-https://github.com/ssabiridrissi-rgb/tp2-docker-cloud-computing
+https://github.com/ssabiridrissi-rgb/ml-api-docker-optimization
 ```
 
 Image Docker publiée :
